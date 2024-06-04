@@ -6,7 +6,8 @@ def fizzbuzz(n):
             result+="fizz"
         if i%5==0:
             result+="buzz"
-
+        if i%15==0:
+            result+="fizzbuzz"
 
         print(result)
 
