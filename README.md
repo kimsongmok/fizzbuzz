@@ -1,6 +1,6 @@
 # fizzbuzz
 
-## fizzbuzz 구현하기
+## fizzbuzz 구현하기✨
 
 ### 기능설명:
 3의 배수: fizz 출력
